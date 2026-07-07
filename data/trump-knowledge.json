@@ -1,0 +1,674 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-07-07",
+  "description": "Curated archive of Donald Trump decisions and reactions across Term 1 (2017–2021) and Term 2 (2025–present), with documented triggers.",
+  "entries": [
+    {
+      "id": "t1-section-301-china-tariffs",
+      "title": "Section 301 China tariff escalation",
+      "category": "trade",
+      "terms": ["first"],
+      "dateRange": { "start": "2018-03-01", "end": "2019-12-31" },
+      "triggers": [
+        "USTR Section 301 investigation finding Chinese theft of IP and forced technology transfer",
+        "Widening bilateral trade deficit with China",
+        "Steel and aluminum overcapacity flooding global markets"
+      ],
+      "eventSummary": "After a year-long Section 301 probe, the administration moved from rhetoric to staged tariff increases on Chinese imports, beginning with steel/aluminum and expanding to broader lists covering consumer and industrial goods.",
+      "trumpDecision": "Imposed 25% tariffs on roughly $50B of Chinese goods in June 2018, threatened and later applied additional tranches up to hundreds of billions. Used tariffs as the primary negotiating lever while keeping a channel open for talks. Paired duties with export controls rhetoric and demands for structural Chinese reforms on IP and market access.",
+      "trumpResponse": "Framed China as having 'ripped off' the United States for decades. Publicly celebrated tariffs as bringing factories back and insisted China would pay, while privately teams pursued a Phase One deal. Escalated via Twitter/press when talks stalled; de-escalated when negotiations resumed.",
+      "mechanisms": ["Section 301 tariffs", "USTR exclusion process", "bilateral negotiation", "public escalation"],
+      "outcomes": ["Phase One trade deal signed January 2020", "tariffs largely remained in place", "supply chain diversification accelerated"],
+      "keywords": ["china", "tariff", "section 301", "trade war", "ustr", "intellectual property", "2018"],
+      "sources": ["USTR Section 301 report", "Federal Register tariff lists", "Phase One agreement text"]
+    },
+    {
+      "id": "t1-jcpoa-withdrawal-iran",
+      "title": "JCPOA withdrawal and maximum pressure on Iran",
+      "category": "security",
+      "terms": ["first"],
+      "dateRange": { "start": "2018-05-08" },
+      "triggers": [
+        "Campaign pledge to exit the Iran nuclear deal",
+        "Israeli pressure and intelligence presentation on Iranian archive",
+        "Sunset clauses in JCPOA and continued Iranian regional activity"
+      ],
+      "eventSummary": "Trump announced U.S. withdrawal from the Joint Comprehensive Plan of Action, reimposing sanctions and pursuing a broader containment strategy.",
+      "trumpDecision": "Reinstated primary and secondary sanctions via executive action, pressed allies to zero out Iranian oil imports, designated the IRGC and targeted Iran's financial and shipping networks. Rejected European SPV workarounds. Sought a 'better deal' covering missiles and regional behavior, not only enrichment.",
+      "trumpResponse": "Called the JCPOA 'the worst deal ever.' Used maximum-pressure framing: Iran must choose between economy and escalation. After regional attacks on oil infrastructure in 2019, threatened severe retaliation while avoiding all-out war.",
+      "mechanisms": ["executive order", "OFAC sanctions", "oil waiver policy", "military posture in Gulf"],
+      "outcomes": ["Iranian oil exports fell sharply", "enrichment increased after U.S. exit", "no replacement nuclear accord"],
+      "keywords": ["iran", "jcpoa", "sanctions", "maximum pressure", "nuclear", "ofac"],
+      "sources": ["May 2018 withdrawal speech", "Treasury sanctions releases"]
+    },
+    {
+      "id": "t1-singapore-kim-summit",
+      "title": "Singapore summit with Kim Jong Un",
+      "category": "diplomacy",
+      "terms": ["first"],
+      "dateRange": { "start": "2018-06-12" },
+      "triggers": [
+        "2017 nuclear and ICBM tests raising U.S. homeland risk",
+        "South Korean Olympic diplomacy opening a channel",
+        "Trump acceptance of Kim meeting invitation via intermediaries"
+      ],
+      "eventSummary": "First-ever meeting between a sitting U.S. president and a North Korean leader, producing a broad denuclearization statement without detailed verification steps.",
+      "trumpDecision": "Chose leader-level summit over working-level sequencing. Suspended major joint U.S.–ROK military exercises as a goodwill gesture. Kept sanctions in place while pursuing additional meetings (Hanoi 2019 collapsed over sanctions relief scope).",
+      "trumpResponse": "Promoted the summit as historic breakthrough. Publicly praised Kim letters while maintaining 'fire and fury' credibility from 2017. After Hanoi walkout, blamed North Korea for excessive demands.",
+      "mechanisms": ["leader summit", "joint statement", "exercise suspension", "sanctions maintenance"],
+      "outcomes": ["no verifiable denuclearization", "testing pause for a period", "renewed missile activity later"],
+      "keywords": ["north korea", "kim", "summit", "singapore", "denuclearization", "hanoi"],
+      "sources": ["Singapore joint statement", "Hanoi summit readouts"]
+    },
+    {
+      "id": "t1-nato-burden-sharing",
+      "title": "NATO burden-sharing pressure",
+      "category": "security",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-05-25", "end": "2020-12-31" },
+      "triggers": [
+        "Allied defense spending below 2% GDP guideline",
+        "Campaign criticism of NATO free-riding",
+        "Russian revanchism in Ukraine and hybrid threats"
+      ],
+      "eventSummary": "Trump repeatedly pressed NATO allies—especially Germany—to increase defense budgets and reduce reliance on U.S. security guarantees.",
+      "trumpDecision": "Used summit confrontations and bilateral leverage rather than Article 5 threats. Demanded faster progress toward 2% and later 4% rhetoric. Linked alliance support rhetorically to trade deficits. Maintained U.S. troop presence in Europe while questioning cost-sharing.",
+      "trumpResponse": "Blunt public criticism of Germany's energy ties to Russia and low spending. Called NATO 'obsolete' before taking office, then claimed credit for allied spending increases. Mixed reassurance to Eastern flank with transactional tone to Western Europe.",
+      "mechanisms": ["summit diplomacy", "bilateral pressure", "defense budget benchmarking"],
+      "outcomes": ["several allies increased spending trajectories", "enduring alliance friction over tone"],
+      "keywords": ["nato", "burden sharing", "defense spending", "germany", "2 percent", "article 5"],
+      "sources": ["NATO summit declarations", "Brussels 2018 press remarks"]
+    },
+    {
+      "id": "t1-usmca-nafta-renegotiation",
+      "title": "USMCA replaces NAFTA",
+      "category": "trade",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-08-16", "end": "2020-07-01" },
+      "triggers": [
+        "Long-running criticism of NAFTA job losses",
+        "Steel tariff leverage on Canada and Mexico",
+        "Domestic manufacturing and auto supply chain politics"
+      ],
+      "eventSummary": "Renegotiated trilateral trade pact updating auto rules of origin, labor, and dispute mechanisms, rebranded as USMCA.",
+      "trumpDecision": "Threatened withdrawal from NAFTA to force talks. Used Section 232 steel/aluminum tariffs as negotiating pressure. Secured higher regional content rules for autos and a sunset review clause. Signed and implemented after congressional ratification.",
+      "trumpResponse": "Branded USMCA as the 'best trade deal ever.' Contrasted with NAFTA as a disaster for American workers. Highlighted Mexico manufacturing and border politics in selling the deal domestically.",
+      "mechanisms": ["trade negotiation", "Section 232 leverage", "congressional approval", "joint commission"],
+      "outcomes": ["USMCA entered force July 2020", "auto rules tightened", "dispute panels used on dairy and autos"],
+      "keywords": ["nafta", "usmca", "mexico", "canada", "auto", "trade deal"],
+      "sources": ["USMCA agreement text", "USTR implementation notices"]
+    },
+    {
+      "id": "t1-tax-cuts-jobs-act",
+      "title": "Tax Cuts and Jobs Act",
+      "category": "economy",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-12-22" },
+      "triggers": [
+        "Republican unified government after 2016 election",
+        "Slow post-crisis growth and corporate tax competition globally",
+        "Campaign promise of middle-class and business tax relief"
+      ],
+      "eventSummary": "Major 2017 tax legislation cutting corporate rates and revising individual brackets, framed as growth stimulus.",
+      "trumpDecision": "Backed congressional GOP package lowering corporate rate to 21%, repatriation incentives, and temporary individual cuts. Used White House events and direct lobbying for passage. Paired with deregulation agenda as growth strategy.",
+      "trumpResponse": "Promoted immediate paycheck and bonus narratives from corporations. Claimed historic economy through 2019 pre-COVID. Criticized Fed when growth slowed or markets fell.",
+      "mechanisms": ["legislation", "Treasury guidance", "regulatory rollback"],
+      "outcomes": ["corporate rate cut durable", "individual provisions largely expired 2025", "deficit increased"],
+      "keywords": ["tax", "tcja", "corporate rate", "economy", "growth", "fed"],
+      "sources": ["Public Law 115-97", "Treasury revenue estimates"]
+    },
+    {
+      "id": "t1-abraham-accords",
+      "title": "Abraham Accords normalization",
+      "category": "diplomacy",
+      "terms": ["first"],
+      "dateRange": { "start": "2020-09-15" },
+      "triggers": [
+        "UAE and Israel shared concerns over Iran",
+        "Opportunity to move beyond incremental Israeli-Palestinian process",
+        "Bahrain and Sudan follow-on incentives including F-35 and debt relief"
+      ],
+      "eventSummary": "Brokered normalization agreements between Israel and several Arab states, shifting regional diplomacy away from sole focus on Palestinian track.",
+      "trumpDecision": "Delegated intensive negotiation to Kushner team and State. Offered arms sales and economic packages to sweeten deals. Moved U.S. embassy to Jerusalem in 2018 as parallel signal. Accepted narrower Palestinian concessions than prior frameworks.",
+      "trumpResponse": "Framed accords as peace through strength and Iran containment. Hosted White House signing ceremony. Claimed Nobel-worthy diplomacy.",
+      "mechanisms": ["bilateral normalization agreements", "arms sales", "economic incentives"],
+      "outcomes": ["UAE, Bahrain, Sudan, Morocco agreements", "expanded Israel-Gulf ties"],
+      "keywords": ["abraham accords", "israel", "uae", "bahrain", "normalization", "middle east"],
+      "sources": ["Abraham Accords texts", "State Department releases"]
+    },
+    {
+      "id": "t1-immigration-zero-tolerance",
+      "title": "Border enforcement and zero-tolerance era",
+      "category": "immigration",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-01-20", "end": "2021-01-20" },
+      "triggers": [
+        "Central American migration surges",
+        "Campaign pledge of wall and strict enforcement",
+        "Caravan politics in 2018 midterms"
+      ],
+      "eventSummary": "Escalated border enforcement, family separation policy in 2018, wall construction funding fights, and Remain in Mexico program.",
+      "trumpDecision": "Issued travel ban executive orders (litigated). Implemented zero-tolerance prosecution leading to family separations, later reversed under pressure. Declared national emergency for wall funds after shutdown. Negotiated MPP with Mexico. Reduced refugee admissions caps sharply.",
+      "trumpResponse": "Central campaign issue: 'build the wall,' invasion rhetoric, blame on Democrats for loopholes. Used caravans as electoral mobilization. Claimed historic border security accomplishments.",
+      "mechanisms": ["executive order", "DHS policy", "national emergency", "Remain in Mexico", "Title 42 prepandemic context"],
+      "outcomes": ["partial wall construction", "MPP and asylum restrictions", "ongoing litigation"],
+      "keywords": ["immigration", "border", "wall", "asylum", "caravan", "zero tolerance"],
+      "sources": ["DHS policy memos", "executive orders", "Supreme Court rulings"]
+    },
+    {
+      "id": "t1-covid-china-response",
+      "title": "COVID-19 response and China blame framing",
+      "category": "domestic",
+      "terms": ["first"],
+      "dateRange": { "start": "2020-01-31", "end": "2021-01-20" },
+      "triggers": [
+        "Wuhan outbreak and WHO information delays",
+        "U.S. economic shutdown and election-year politics",
+        "PPE and supply chain dependence on China"
+      ],
+      "eventSummary": "Travel restrictions on China early 2020, later domestic reopening push, Operation Warp Speed, and sustained rhetorical blame toward Beijing.",
+      "trumpDecision": "Restricted China travel January 2020. Deferred to governors on lockdowns then urged reopening. Launched Warp Speed for vaccines. Used Defense Production Act selectively. Imposed rhetoric and policy toward China over virus origin and trade decoupling talk.",
+      "trumpResponse": "Pivoted from praise of Xi handling to 'China virus' framing. Daily briefings then rally-centric minimization. Contrasted shutdown states vs open states.",
+      "mechanisms": ["travel ban", "DPA", "Warp Speed", "CDC guidance tension"],
+      "outcomes": ["vaccines authorized December 2020", "polarized domestic response", "U.S.–China relations further strained"],
+      "keywords": ["covid", "pandemic", "china virus", "warp speed", "lockdown", "who"],
+      "sources": ["HHS timelines", "executive actions on travel"]
+    },
+    {
+      "id": "t1-venezuela-maduro-pressure",
+      "title": "Maximum pressure on Venezuela",
+      "category": "diplomacy",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-08-11", "end": "2021-01-20" },
+      "triggers": [
+        "Maduro authoritarian consolidation",
+        "Humanitarian collapse and migration exodus",
+        "Recognition of Guaidó as interim president"
+      ],
+      "eventSummary": "Layered sanctions on PDVSA and regime officials while recognizing opposition leadership; military intervention rhetoric remained rhetorical.",
+      "trumpDecision": "Oil sector sanctions 2019 crippled export revenue. Supported Guaidó diplomatically without successful power transition. Considered but did not execute military options. Used Cuba sanctions linkage.",
+      "trumpResponse": "Strong rhetoric on socialism failure. Hinted at 'military option' publicly. Focused on Florida domestic politics.",
+      "mechanisms": ["OFAC sanctions", "diplomatic recognition", "oil embargo"],
+      "outcomes": ["regime survived", "migration crisis continued", "sanctions remained"],
+      "keywords": ["venezuela", "maduro", "guaido", "pdvsa", "sanctions", "socialism"],
+      "sources": ["Treasury Venezuela designations", "State recognition policy"]
+    },
+    {
+      "id": "t1-withdrawal-syria-kurds",
+      "title": "Syria withdrawal and Kurdish partner tension",
+      "category": "security",
+      "terms": ["first"],
+      "dateRange": { "start": "2018-12-19", "end": "2019-10-09" },
+      "triggers": [
+        "ISIS territorial defeat",
+        "Turkish pressure on Kurdish YPG presence",
+        "Domestic 'endless wars' rhetoric"
+      ],
+      "eventSummary": "Announced troop drawdowns in Syria, green-lit Turkish incursion against U.S.-backed Kurds after phone call with Erdoğan, later partial reversal.",
+      "trumpDecision": "Ordered withdrawal from northeast Syria October 2019, enabling Operation Peace Spring. Faced bipartisan backlash; retained some forces for oil fields. Demonstrated preference for transactional alliances over long-term partner commitments when NATO ally opposed.",
+      "trumpResponse": "Claimed ISIS defeated and others should police region. Insulted Kurds when criticized. Bragged about ceasefire lines as victory.",
+      "mechanisms": ["troop orders", "Turkish coordination", "ceasefire negotiations"],
+      "outcomes": ["Kurdish displacement", "Russian-Turkish expanded roles", "U.S. footprint reduced but not eliminated"],
+      "keywords": ["syria", "kurds", "turkey", "erdogan", "isis", "withdrawal"],
+      "sources": ["DoD Syria statements", "White House October 2019 letters"]
+    },
+    {
+      "id": "t1-energy-dominance",
+      "title": "Energy dominance and OPEC pressure",
+      "category": "energy",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-01-20", "end": "2021-01-20" },
+      "triggers": [
+        "Shale revolution and U.S. export potential",
+        "OPEC+ production cuts affecting gasoline prices",
+        "Iran sanctions removing barrels from market"
+      ],
+      "eventSummary": "Promoted U.S. oil and gas exports, rolled back climate regulations, and publicly pressured OPEC/Saudi Arabia on prices via Twitter.",
+      "trumpDecision": "Withdrew from Paris Agreement. Opened federal lands and streamlined permits. Used personal relationship with MBS to seek production increases when prices rose. Released SPR tactically.",
+      "trumpResponse": "'Energy dominance' slogan. Blamed OPEC when prices hurt consumers. Took credit for low gasoline pre-COVID.",
+      "mechanisms": ["regulatory rollback", "diplomatic oil diplomacy", "SPR releases"],
+      "outcomes": ["U.S. net exporter period", "climate policy reversed until successor"],
+      "keywords": ["opec", "oil", "energy dominance", "paris agreement", "shale", "gasoline"],
+      "sources": ["DOE data", "Paris withdrawal notice"]
+    },
+    {
+      "id": "t2-tariffs-reciprocal-announcement",
+      "title": "Reciprocal tariff framework (Term 2)",
+      "category": "trade",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-04-02" },
+      "triggers": [
+        "Campaign promise of universal baseline tariffs",
+        "Persistent trade deficits despite Term 1 actions",
+        "Retaliation dynamics with China, EU, and neighbors"
+      ],
+      "eventSummary": "Second-term opening trade move: broad reciprocal tariff doctrine with country-specific rates and sector carve-outs, announced at high-profile economic event.",
+      "trumpDecision": "Established baseline global tariff with higher country-specific reciprocal rates tied to perceived foreign barriers. Used emergency/trade authorities flexibly. Paused or negotiated reductions with some partners while escalating with others. Integrated tariff threats into non-trade issues (migration, fentanyl).",
+      "trumpResponse": "Sold tariffs as self-inflicted wound by trading partners. Promised manufacturing renaissance. Used social posts for market-moving tariff clarifications and delays.",
+      "mechanisms": ["IEEPA/trade authorities", "country rate schedules", "negotiated pauses", "sector exemptions"],
+      "outcomes": ["market volatility", "partner retaliation threats", "ongoing negotiation cycles"],
+      "keywords": ["reciprocal tariffs", "liberation day", "trade", "2025", "deficit", "manufacturing"],
+      "sources": ["White House trade announcements April 2025", "USTR fact sheets"]
+    },
+    {
+      "id": "t2-china-fentanyl-tariffs",
+      "title": "China tariffs linked to fentanyl precursors",
+      "category": "trade",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-02-01" },
+      "triggers": [
+        "Overdose deaths and precursor chemical flows",
+        "Campaign linkage of border security and China supply chains",
+        "Need for early second-term executive action"
+      ],
+      "eventSummary": "Additional duties on Chinese imports explicitly tied to counter-narcotics enforcement, blending trade and security rationales.",
+      "trumpDecision": "Imposed supplemental tariffs beyond Term 1 levels citing fentanyl. Used as bargaining chip in broader Beijing talks. Paired with export controls rhetoric on technology.",
+      "trumpResponse": "Framed as holding China accountable for poison killing Americans. Combined with migration and tariff threats in single narratives.",
+      "mechanisms": ["supplemental tariffs", "executive action", "counter-narcotics framing"],
+      "keywords": ["fentanyl", "china", "tariff", "precursors", "drugs", "border"],
+      "sources": ["February 2025 executive trade actions"]
+    },
+    {
+      "id": "t2-greenland-panama-canal",
+      "title": "Greenland and Panama Canal acquisition rhetoric",
+      "category": "diplomacy",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-07" },
+      "triggers": [
+        "Strategic anxiety over Arctic and Chinese influence",
+        "Canal fee complaints and BRI port investments",
+        "Expansionist campaign trail themes"
+      ],
+      "eventSummary": "Public musings about acquiring Greenland and asserting control over Panama Canal operations, unsettling allies and neighbors.",
+      "trumpDecision": "Used extreme opening positions without formal invasion plans. Applied economic and diplomatic pressure indirectly—tariff threats to Denmark, scrutiny of canal fees. Primarily bargaining and attention strategy with secondary policy probes.",
+      "trumpResponse": "Called purchase of Greenland 'real estate deal.' Threatened canal reprisals. Dismissed allied offense as weakness.",
+      "mechanisms": ["public leverage", "tariff threats", "diplomatic provocation"],
+      "keywords": ["greenland", "panama canal", "denmark", "arctic", "acquisition", "canal"],
+      "sources": ["January 2025 press statements", "social media posts"]
+    },
+    {
+      "id": "t2-ukraine-war-posture",
+      "title": "Ukraine war funding and negotiation posture",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Stalemated Russia-Ukraine war and budget costs",
+        "Campaign promise to end war quickly",
+        "European burden-sharing debates"
+      ],
+      "eventSummary": "Shifted from open-ended aid toward conditional support, minerals deal linkage, and direct push for ceasefire negotiations.",
+      "trumpDecision": "Paused/intel and aid flows temporarily to force European increases and Kyiv engagement on talks. Pursued economic agreement on Ukrainian minerals. Appointed special envoy for rapid deal rhetoric. Maintained sanctions on Russia while criticizing Zelenskyy publicly at times.",
+      "trumpResponse": "Promised 24-hour war end on trail; later framed delays on Ukrainian leadership. Contrasted Biden spending with America First costs.",
+      "mechanisms": ["aid conditionality", "special envoy", "sanctions maintenance", "minerals framework"],
+      "keywords": ["ukraine", "russia", "zelenskyy", "ceasefire", "aid", "minerals"],
+      "sources": ["White House Ukraine policy statements 2025", "DoD aid releases"]
+    },
+    {
+      "id": "t2-gaza-ceasefire-push",
+      "title": "Gaza ceasefire and regional shuttle diplomacy",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Post-Oct 7 war continuation and hostages",
+        "U.S. domestic split on Israel policy",
+        "Saudi normalization incentives"
+      ],
+      "eventSummary": "Second-term team prioritized hostage deals and ceasefire phases while maintaining strong Israel alignment rhetoric.",
+      "trumpDecision": "Deployed envoys for multi-phase ceasefire architecture. Linked regional deals to broader Abraham Accords expansion. Used aid/leverage rhetoric without sustained public break from Israel.",
+      "trumpResponse": "Promoted personal ability to close deals others could not. Mixed praise for Israeli operations with calls for quick end when politically useful.",
+      "mechanisms": ["envoy diplomacy", "ceasefire phases", "hostage negotiations"],
+      "keywords": ["gaza", "israel", "hamas", "hostages", "ceasefire", "middle east"],
+      "sources": ["State Department ceasefire statements", "envoy press briefings"]
+    },
+    {
+      "id": "t2-mass-deportation-executive",
+      "title": "Border emergency and deportation acceleration",
+      "category": "immigration",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Record border encounters in prior administration years",
+        "Campaign mass deportation pledge",
+        "State resistance and sanctuary jurisdiction conflicts"
+      ],
+      "eventSummary": "Day-one border emergency declarations, expanded removal operations, and military/logistics support for detention and transport.",
+      "trumpDecision": "Restored Remain in Mexico analog policies, expanded expedited removal, surged ICE operations in cities, used Alien Enemies Act argument (litigated). Threatened tariffs on Mexico/Canada for migration flows.",
+      "trumpResponse": "'Largest deportation program in history' messaging. Blamed prior administration for invasion. Used high-visibility raids as deterrent signal.",
+      "mechanisms": ["executive orders", "ICE operations", "military logistics", "tariff linkage"],
+      "keywords": ["deportation", "border", "ice", "immigration", "emergency", "sanctuary"],
+      "sources": ["Day-one executive orders", "DHS operational updates"]
+    },
+    {
+      "id": "t2-doge-federal-cuts",
+      "title": "DOGE-driven federal spending cuts",
+      "category": "domestic",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Federal deficit and debt ceiling politics",
+        "Campaign promise to dismantle bureaucracy",
+        "Elon Musk alliance and efficiency narrative"
+      ],
+      "eventSummary": "Department of Government Efficiency initiative targeting contracts, headcount, and agency programs via executive pressure and data system access.",
+      "trumpDecision": "Backed aggressive cancellation of USAID projects, workforce reductions, and contract reviews. Used executive authority maximally; faced court challenges. Paired with tax-cut extension agenda requiring offset rhetoric.",
+      "trumpResponse": "Promoted DOGE savings figures publicly. Framed opponents as defending waste and fraud.",
+      "mechanisms": ["executive action", "contract review", "workforce RIFs", "reorganization orders"],
+      "keywords": ["doge", "spending cuts", "usaID", "efficiency", "deficit", "musk"],
+      "sources": ["Executive orders on federal efficiency", "OMB releases"]
+    },
+    {
+      "id": "t2-fed-independence-pressure",
+      "title": "Federal Reserve independence pressure",
+      "category": "economy",
+      "terms": ["first", "second"],
+      "dateRange": { "start": "2018-08-01" },
+      "triggers": [
+        "Rate hikes during expansion",
+        "Inflation surge 2021–2023 inherited debate",
+        "Second-term desire for lower rates to finance deficits"
+      ],
+      "eventSummary": "Persistent public criticism of Fed chair and policy, escalating in Term 2 with comments on chair tenure and rate demands.",
+      "trumpDecision": "Did not remove Powell in Term 1 despite criticism. Term 2 revived public rate demands and explored legal theories on Fed leadership removal while markets watched closely.",
+      "trumpResponse": "Called Fed officials 'enemy' in 2019. Demanded cuts in 2025 citing deficit service costs. Personalized monetary policy conflicts.",
+      "mechanisms": ["public pressure", "legal review rhetoric", "market signaling via social posts"],
+      "keywords": ["fed", "powell", "interest rates", "inflation", "monetary policy", "central bank"],
+      "sources": ["FOMC meeting Trump comments", "2025 press interviews on Fed"]
+    },
+    {
+      "id": "t2-canada-mexico-tariff-threats",
+      "title": "USMCA partners tariff threats over migration and drugs",
+      "category": "trade",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-02-01" },
+      "triggers": [
+        "Fentanyl flows and migration metrics",
+        "USMCA review approaching",
+        "Campaign promises on border and trade linkage"
+      ],
+      "eventSummary": "Threatened 25% tariffs on Canada and Mexico unless border/drug benchmarks met, with pause-negotiate cycles.",
+      "trumpDecision": "Used tariff deadline diplomacy to extract border deployment and inspection commitments. Paused tariffs after partial concessions. Maintained threat credibility for renegotiation leverage on USMCA terms.",
+      "trumpResponse": "Framed neighbors as taking advantage on trade and security. Announced pauses as victories.",
+      "mechanisms": ["tariff threats", "bilateral security commitments", "USMCA leverage"],
+      "keywords": ["canada", "mexico", "usmca", "tariff", "fentanyl", "migration"],
+      "sources": ["February–March 2025 tariff pause announcements"]
+    },
+    {
+      "id": "t2-eu-trade-war-escalation",
+      "title": "EU trade escalation and steel disputes",
+      "category": "trade",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-03-12" },
+      "triggers": [
+        "EU digital taxes and regulatory barriers",
+        "Steel/aluminum dispute continuation",
+        "Retaliation for U.S. baseline tariffs"
+      ],
+      "eventSummary": "Raised steel/aluminum duties and threatened broader EU goods tariffs amid transatlantic retaliation spiral.",
+      "trumpDecision": "Doubled down on sector tariffs while offering negotiation off-ramps. Targeted autos and agriculture rhetorically. Used NATO spending critiques in parallel.",
+      "trumpResponse": "Called EU 'worse than China' on trade at rallies. Publicly celebrated retaliation fears as negotiating tactic.",
+      "mechanisms": ["Section 232", "retaliatory tariff lists", "USTR negotiations"],
+      "keywords": ["eu", "europe", "steel", "tariff", "retaliation", "autos"],
+      "sources": ["USTR EU dispute notices 2025"]
+    },
+    {
+      "id": "t2-iran-maximum-pressure-2",
+      "title": "Renewed maximum pressure on Iran",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Iran nuclear program advancement post-JCPOA collapse",
+        "Regional proxy escalation",
+        "Campaign promise of tougher Iran policy than Term 1"
+      ],
+      "eventSummary": "Re-tightened sanctions enforcement and threatened military options over nuclear and shipping interdiction.",
+      "trumpDecision": "Restored 'maximum pressure' branding with expanded sanctions designations. Signaled willingness to strike nuclear sites while keeping direct negotiation door rhetorically open.",
+      "trumpResponse": "Contrasted self as harder than Biden on Iran. Used B-2/strike leaks as pressure. Criticized prior administration for lifting pressure.",
+      "mechanisms": ["OFAC designations", "military signaling", "Gulf force posture"],
+      "keywords": ["iran", "sanctions", "nuclear", "maximum pressure", "proxy", "strikes"],
+      "sources": ["Treasury 2025 Iran designations", "DoD Middle East posture releases"]
+    },
+    {
+      "id": "t2-taiwan-semiconductor-leverage",
+      "title": "Taiwan and semiconductor supply chain leverage",
+      "category": "trade",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-02-01" },
+      "triggers": [
+        "TSMC Arizona fab politics",
+        "China-Taiwan tension and chip dependence",
+        "Need for domestic semiconductor production"
+      ],
+      "eventSummary": "Pushed Taiwan to invest more in U.S. fabs and threatened tariffs on chips unless production shifted.",
+      "trumpDecision": "Linked semiconductor subsidies to political support and tariff threats on imported chips. Pressured partners for onshoring commitments while maintaining strategic ambiguity on defense.",
+      "trumpResponse": "Called Taiwan 'stole' chip industry historically; demanded payment for protection. Mixed reassurance with transactional framing.",
+      "mechanisms": ["CHIPS Act leverage", "tariff threats", "bilateral investment deals"],
+      "keywords": ["taiwan", "semiconductor", "tsmc", "chips", "china", "technology"],
+      "sources": ["Commerce semiconductor agreements", "2025 trade statements on chips"]
+    },
+    {
+      "id": "t2-truth-social-policy-signals",
+      "title": "Truth Social as real-time policy signaling",
+      "category": "other",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Market sensitivity to tariff and personnel announcements",
+        "Reduced traditional press briefing reliance",
+        "Need for direct base communication"
+      ],
+      "eventSummary": "Major second-term decisions and clarifications often previewed or modified via Truth Social posts, moving markets and diplomacy.",
+      "trumpDecision": "Used platform for tariff pauses, personnel firings, and foreign policy trial balloons. Staff sometimes walked back or formalized posts into policy. Integrated social timing with morning news cycle.",
+      "trumpResponse": "Unfiltered triumph/confrontation tone. Policy-by-post became deliberate chaos strategy to keep opponents off-balance.",
+      "mechanisms": ["social media signaling", "market-moving posts", "subsequent formal orders"],
+      "keywords": ["truth social", "posts", "tweets", "social media", "tariff pause", "announcement"],
+      "sources": ["Truth Social archives", "White House follow-up orders"]
+    },
+    {
+      "id": "t1-paris-withdrawal",
+      "title": "Paris Climate Agreement withdrawal",
+      "category": "energy",
+      "terms": ["first"],
+      "dateRange": { "start": "2017-06-01" },
+      "triggers": [
+        "Campaign pledge to exit Paris",
+        "Coal and manufacturing state politics",
+        "Belief agreement disadvantaged U.S. economically"
+      ],
+      "eventSummary": "Announced withdrawal from Paris accord, later formalized, reframing climate policy around domestic energy production.",
+      "trumpDecision": "Exit process per treaty rules; reversed Obama-era climate executive actions. Promoted fossil fuel exports and vehicle standards rollback.",
+      "trumpResponse": "Called Paris a bad deal killing American jobs. Staged Rose Garden announcement with coal supporters.",
+      "mechanisms": ["treaty withdrawal", "EPA rule rollback", "executive orders"],
+      "keywords": ["paris agreement", "climate", "coal", "withdrawal", "epa"],
+      "sources": ["June 2017 Rose Garden speech", "UN withdrawal notification"]
+    },
+    {
+      "id": "t2-paris-exit-again",
+      "title": "Second Paris Agreement withdrawal",
+      "category": "energy",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-01-20" },
+      "triggers": [
+        "Biden re-entry to Paris",
+        "Energy dominance campaign themes",
+        "Day-one climate rollback agenda"
+      ],
+      "eventSummary": "Immediate second withdrawal from Paris and expansion of drilling on federal lands.",
+      "trumpDecision": "Day-one executive orders on climate and energy emergency declarations to accelerate permits. Reversed methane rules and EV mandate policies.",
+      "trumpResponse": "Repeated 'energy emergency' framing. Promised cheapest energy on Earth.",
+      "mechanisms": ["executive orders", "drilling permits", "regulatory rollback"],
+      "keywords": ["paris", "climate", "drilling", "energy emergency", "day one"],
+      "sources": ["January 2025 energy executive orders"]
+    },
+    {
+      "id": "t1-hong-kong-china-bill",
+      "title": "Hong Kong autonomy erosion response",
+      "category": "diplomacy",
+      "terms": ["first"],
+      "dateRange": { "start": "2020-07-14" },
+      "triggers": [
+        "National security law imposing Chinese control",
+        "Pro-democracy protests and crackdown",
+        "Bipartisan congressional pressure"
+      ],
+      "eventSummary": "Signed Hong Kong Autonomy Act, revoked special status, sanctioned officials; part of broader China hardening in 2020.",
+      "trumpDecision": "Ended preferential economic treatment for Hong Kong. Imposed sanctions on CCP officials. Integrated with Phase One enforcement and tech export restrictions on Huawei.",
+      "trumpResponse": "Condemned China breaking promise to Hong Kong. Used issue in COVID-era blame campaign.",
+      "mechanisms": ["Hong Kong Autonomy Act", "sanctions", "export controls"],
+      "keywords": ["hong kong", "china", "autonomy", "sanctions", "national security law"],
+      "sources": ["Public Law 116-149", "State Hong Kong status determination"]
+    },
+    {
+      "id": "t2-russia-sanctions-ukraine-deal",
+      "title": "Russia sanctions paired with Ukraine deal push",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-02-01" },
+      "triggers": [
+        "War fatigue and U.S. budget pressure",
+        "European energy dependence shifts",
+        "Campaign promise to settle war"
+      ],
+      "eventSummary": "Maintained Russia sanctions while publicly pushing rapid territorial compromise frameworks controversial in Kyiv and Europe.",
+      "trumpDecision": "Combined sanctions enforcement with negotiation templates seen as favorable to quick freeze lines. Used aid pauses as leverage. Engaged Putin directly while criticizing European contributions.",
+      "trumpResponse": "Boasted personal rapport with Putin could end war. Blamed Zelenskyy for prolonging conflict when talks stalled.",
+      "mechanisms": ["sanctions", "bilateral leader calls", "aid leverage"],
+      "keywords": ["russia", "putin", "ukraine", "sanctions", "peace deal", "ceasefire"],
+      "sources": ["White House readouts of Putin calls 2025", "Treasury Russia sanctions"]
+    },
+    {
+      "id": "t1-census-citizenship-question",
+      "title": "Census citizenship question fight",
+      "category": "domestic",
+      "terms": ["first"],
+      "dateRange": { "start": "2018-03-26", "end": "2019-07-11" },
+      "triggers": [
+        "Immigration hardliner influence in administration",
+        "Voting rights and apportionment debates",
+        "Supreme Court timeline for census forms"
+      ],
+      "eventSummary": "Attempted to add citizenship question to 2020 census; blocked by courts, abandoned after partial retreat.",
+      "trumpDecision": "Pressed Commerce to add question via executive order after legal loss; ultimately dropped for 2020 but signaled data collection via other agencies.",
+      "trumpResponse": "Framed as needing to know who's citizen. Attacked judiciary blocking as partisan.",
+      "mechanisms": ["Commerce Department action", "executive order attempt", "litigation"],
+      "keywords": ["census", "citizenship", "immigration", "supreme court", "apportionment"],
+      "sources": ["Supreme Court Dept of Commerce v. New York", "executive order July 2019"]
+    },
+    {
+      "id": "t2-twelve-day-war-2025",
+      "title": "Twelve-Day War strikes on Iranian nuclear sites",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-06-13", "end": "2025-06-24" },
+      "triggers": [
+        "Israeli surprise campaign against Iranian nuclear and military targets beginning June 13, 2025",
+        "Stalled US-Iran nuclear talks and advancing enrichment",
+        "Israeli requests for US bunker-buster capability against hardened sites"
+      ],
+      "eventSummary": "After Israel opened a twelve-day air war on Iran, the U.S. directly struck the Fordow, Natanz, and Isfahan nuclear facilities (June 21–22), absorbed a telegraphed Iranian missile response on Al Udeid air base, and then announced a ceasefire branding it the 'Twelve-Day War.'",
+      "trumpDecision": "Initially kept the U.S. in a supporting posture while issuing evacuation warnings and a two-week 'decision window,' then ordered B-2 strikes with massive ordnance penetrators on three nuclear sites. Chose a single decisive strike package over sustained campaign, accepted Iran's face-saving retaliation without escalation, and imposed a ceasefire on both parties within days — publicly rebuking both sides when early violations occurred.",
+      "trumpResponse": "Declared the sites 'totally obliterated' and defended that claim against leaked damage assessments. Demanded Iran's 'unconditional surrender' rhetoric during the war window, floated regime-change language once, then pivoted to peacemaker framing after the ceasefire held.",
+      "mechanisms": ["B-2 strike package", "military signaling via deadline", "ceasefire imposition", "social media announcements"],
+      "outcomes": ["Iranian enrichment infrastructure heavily damaged with disputed permanence", "ceasefire held through 2025", "set precedent for direct US strikes on Iranian soil"],
+      "keywords": ["iran", "fordow", "natanz", "isfahan", "twelve day war", "midnight hammer", "b-2", "ceasefire", "2025"],
+      "sources": ["DoD Operation Midnight Hammer briefings", "June 2025 White House addresses", "IAEA damage assessments"]
+    },
+    {
+      "id": "t2-one-big-beautiful-bill",
+      "title": "One Big Beautiful Bill tax and spending law",
+      "category": "economy",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-07-04" },
+      "triggers": [
+        "Expiration of TCJA individual provisions after 2025",
+        "Campaign promises on tips, overtime, and Social Security taxation",
+        "Need to fund border/deportation and defense priorities through reconciliation"
+      ],
+      "eventSummary": "Signature second-term domestic legislation extending 2017 tax cuts, adding no-tax-on-tips/overtime provisions, and pairing large border and defense funding with cuts to Medicaid and clean-energy programs, passed via reconciliation and signed July 4, 2025.",
+      "trumpDecision": "Insisted on one omnibus reconciliation vehicle over split bills. Pressured holdout Republicans directly and via social posts, accepted debt-limit increase inside the package, and prioritized speed to a July 4 signing over deficit objections from within his own coalition.",
+      "trumpResponse": "Branded the bill as the largest tax cut in history. Attacked GOP dissenters publicly, including a high-profile rupture with Elon Musk over the bill's deficit impact. Celebrated with a military-themed signing ceremony.",
+      "mechanisms": ["budget reconciliation", "public pressure on legislators", "signing ceremony messaging"],
+      "outcomes": ["TCJA rates made permanent", "border and defense funding surge", "CBO-projected deficit increase and Medicaid coverage losses debated"],
+      "keywords": ["obbba", "tax cuts", "reconciliation", "tips", "medicaid", "deficit", "musk", "2025"],
+      "sources": ["Public Law 119-21", "CBO cost estimates", "July 2025 signing remarks"]
+    },
+    {
+      "id": "t2-gaza-sharm-peace-deal",
+      "title": "Gaza ceasefire and hostage deal (20-point plan)",
+      "category": "diplomacy",
+      "terms": ["second"],
+      "dateRange": { "start": "2025-09-29", "end": "2025-10-13" },
+      "triggers": [
+        "Two years of Gaza war and hostage families' pressure",
+        "Regional mediator alignment (Qatar, Egypt, Turkey) after Israeli strike on Doha",
+        "Trump desire for signature peace achievement ahead of Nobel announcement"
+      ],
+      "eventSummary": "Trump unveiled a 20-point Gaza framework, pressured Netanyahu to accept it publicly, and secured a first-phase deal releasing the living Israeli hostages in exchange for Palestinian prisoners and partial Israeli withdrawal, capped by a Sharm el-Sheikh summit and Knesset address.",
+      "trumpDecision": "Used personal ultimatum framing at Hamas ('all hell will break out') while leaning on Netanyahu through the Doha-strike fallout to accept terms. Delegated shuttle mechanics to Witkoff and Kushner. Structured deal in phases with a 'Board of Peace' concept he would chair, leaving later phases deliberately vague.",
+      "trumpResponse": "Claimed the deal ended the war and touted it as historic across the region. Presided over the Sharm el-Sheikh signing with dozens of leaders. Framed subsequent violations as manageable and kept credit-taking central.",
+      "mechanisms": ["20-point framework", "envoy shuttle diplomacy", "leader summit", "phased hostage exchange"],
+      "outcomes": ["living hostages released October 2025", "fragile phase-one ceasefire with periodic strikes", "later-phase governance questions unresolved"],
+      "keywords": ["gaza", "hostages", "sharm el-sheikh", "20-point plan", "netanyahu", "hamas", "ceasefire", "2025"],
+      "sources": ["White House 20-point plan text", "Sharm el-Sheikh declaration", "October 2025 Knesset address"]
+    },
+    {
+      "id": "t2-iran-war-2026-major-combat",
+      "title": "2026 Iran war: major combat operations and decapitation strikes",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2026-02-28" },
+      "triggers": [
+        "Netanyahu lobbying for joint strike targeting Iranian leadership after the 2025 ceasefire",
+        "Iranian government's deadly crackdown on anti-government protests in January 2026",
+        "Assessment that Iran's nuclear and missile programs were reconstituting"
+      ],
+      "eventSummary": "Trump announced 'major combat operations' against Iran on February 28, 2026, launching massive joint US-Israeli strikes on military, government, nuclear, and infrastructure targets. Supreme Leader Khamenei was killed in the strikes. Iran retaliated against US bases, Israel, and Gulf states, closed the Strait of Hormuz, and Hezbollah opened a Lebanon front — triggering the largest US regional military buildup since 2003.",
+      "trumpDecision": "Escalated from the 2025 single-strike model to an open-ended joint campaign with explicit regime-change and leadership-decapitation aims. Declared goals of annihilating the Iranian navy and destroying missile and nuclear programs. Rejected early off-ramps, declaring there would be 'no deal with Iran except unconditional surrender,' while calling on Iranians to overthrow their government. Paused planned strikes on power plants for five days mid-campaign as a negotiation signal.",
+      "trumpResponse": "Wartime maximalist rhetoric mixed with abrupt diplomatic openings, largely conducted through Truth Social posts and rally remarks. Publicly floated taking Iran's oil and gas resources among shifting justifications. Framed the killed leadership's successors as 'more reasonable' negotiating partners.",
+      "mechanisms": ["joint air campaign", "leadership targeting", "regional force buildup", "public ultimatums", "social media signaling"],
+      "outcomes": ["Khamenei killed and Iranian leadership reshuffled", "thousands of casualties reported", "Hormuz closure and global oil supply disruption", "estimated $113B+ cost to US taxpayers by June 2026", "war transitioned to ceasefire diplomacy from April"],
+      "keywords": ["iran", "2026 war", "khamenei", "regime change", "major combat operations", "hezbollah", "lebanon", "unconditional surrender"],
+      "sources": ["February 2026 White House war address", "DoD operational briefings", "House of Commons Library briefing CBP-10637"]
+    },
+    {
+      "id": "t2-hormuz-closure-blockade-2026",
+      "title": "Strait of Hormuz closure and US naval blockade",
+      "category": "security",
+      "terms": ["second"],
+      "dateRange": { "start": "2026-03-01" },
+      "triggers": [
+        "Iranian closure of the Strait of Hormuz in retaliation for the February 2026 strikes",
+        "Collapse of the Islamabad ceasefire talks in mid-April",
+        "Shipping paralysis — only 15 ships transiting by March 10, 2026"
+      ],
+      "eventSummary": "After Iran shut the strait and talks failed, the US imposed a naval blockade on Iran, enforced through warning-shot interdictions — including disabling and seizing the Iranian-flagged cargo ship Touska — and treated blockade leverage as central to forcing a deal on reopening the waterway.",
+      "trumpDecision": "Chose economic strangulation via blockade over renewed full-scale strikes after the Islamabad talks failed, publicly arguing the blockade gave Washington more leverage over Iran than military strikes. Ordered graduated interdiction (six hours of warnings before disabling fire on the Touska). Later lifted active blockade under the June memorandum while keeping forces postured, and ruled out Iranian tolls on the strait as unacceptable in any deal.",
+      "trumpResponse": "Narrated interdictions personally on Truth Social. Accused Iran of doing a 'very poor job' handling oil flows under the truce, and answered ceasefire-violation questions with 'you'll find out' ambiguity. Kept oil-price relief framing central — promising prices would 'come tumbling down' with victory.",
+      "mechanisms": ["naval blockade", "graduated interdiction", "ship seizure", "market signaling"],
+      "outcomes": ["largest-ever oil supply disruption per market analyses", "Touska seizure without escalation to renewed full war", "strait reopening became the core US deal objective", "blockade suspended after June memorandum"],
+      "keywords": ["strait of hormuz", "blockade", "touska", "oil", "shipping", "interdiction", "navy", "2026"],
+      "sources": ["CENTCOM interdiction statements", "April 2026 blockade announcement", "June 2026 memorandum terms"]
+    },
+    {
+      "id": "t2-iran-ceasefire-memorandum-2026",
+      "title": "Pakistan-mediated ceasefire and Versailles memorandum",
+      "category": "diplomacy",
+      "terms": ["second"],
+      "dateRange": { "start": "2026-04-08" },
+      "triggers": [
+        "War costs, oil shock, and stalemate pressure on all parties",
+        "Pakistani and Qatari mediation channels to post-Khamenei leadership",
+        "Iranian conditions linking any deal to ending the Lebanon war"
+      ],
+      "eventSummary": "A Pakistan-mediated two-week ceasefire began April 8, 2026, was extended indefinitely on April 21 despite repeated violations by both sides, and culminated in a war-ending memorandum announced June 14 and signed June 17 at the Palace of Versailles by Trump and Iran's president — establishing a 60-day interim ceasefire, Hormuz reopening without tolls, and nuclear-program termination, with follow-on talks at Bürgenstock, Switzerland.",
+      "trumpDecision": "Ran ceasefire diplomacy through mediators (Pakistan, Qatar) and personal envoys (Witkoff, Kushner, Vance) rather than State-led process. Advanced a 15-point plan in March, rejected Iran's counterproposals as 'simply unacceptable,' extended the truce unilaterally when convenient, and ultimately accepted a phased memorandum prioritizing strait reopening and zero-enrichment verification over uranium recovery. Facilitated a parallel Israel-Hezbollah ceasefire (June 19) with Qatar and Iran to unlock Iranian participation.",
+      "trumpResponse": "Alternated between deal optimism ('great deal,' 'total victory in two weeks') and threats to return 'to the battlefront... bigger and stronger than ever' when talks stalled. Described the ceasefire as on 'massive life support' at low points, blamed Iranian negotiators for reversals, and staged the Versailles signing as a historic personal achievement.",
+      "mechanisms": ["third-party mediation", "envoy diplomacy", "phased memorandum", "ceasefire extension by declaration", "linked-conflict sequencing"],
+      "outcomes": ["60-day interim ceasefire signed June 17, 2026", "Hormuz reopening without tolls agreed", "IAEA verification framework anticipated", "recurrent violations including June Hormuz drone attacks and retaliatory US strikes", "final-status talks ongoing as of July 2026"],
+      "keywords": ["ceasefire", "pakistan", "versailles", "memorandum", "burgenstock", "witkoff", "vance", "hormuz", "2026"],
+      "sources": ["April 2026 ceasefire announcements", "June 17 Versailles memorandum", "Bürgenstock talks readouts", "House of Commons Library briefing"]
+    }
+  ]
+}
